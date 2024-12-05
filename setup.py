@@ -12,7 +12,7 @@ except FileNotFoundError:
 
 # Metadata
 setup(
-    name="py-proj",
+    name="treepy",
     version="0.0.0.9000",
     author="stho",
     author_email="q@q",
