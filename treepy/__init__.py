@@ -1,1 +1,1 @@
-from main import print_tree
+from treepy.main import print_tree
