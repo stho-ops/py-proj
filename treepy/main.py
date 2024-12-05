@@ -44,7 +44,7 @@ def __tree(n):
 def print_tree():
     """prints a xmas tree
     treepy.print_tree()
-     """
+    """
     __tree(50)
 
 
