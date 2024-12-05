@@ -13,7 +13,7 @@ except FileNotFoundError:
 # Metadata
 setup(
     name="treepy",
-    version="0.0.0.9000",
+    version="0",
     author="stho",
     author_email="q@q",
     description="Describe here your package in one sentence",
